@@ -1,6 +1,8 @@
 QAspirants_O_Despertar_da_Main.txt
 Em um futuro não muito distante, o mundo digital estava em colapso. Aplicações quebravam em produção, APIs respondiam com códigos 500 aleatórios, e bugs se multiplicavam como se tivessem vida própria. Era o Caos versão 2.0.
 Foi então que, nas profundezas do repositório secreto da Codebase Central, surgiu uma nova esperança: QAspirants, uma squad formada por jovens estagiários com um único objetivo — restaurar a ordem entre os commits e garantir que nenhum erro escapasse à validação.
+Mas nem sempre foi fácil. Cada sprint trazia novos desafios e batalhas contra prazos apertados, escopos mutantes e requisitos ambíguos. Mesmo assim, os QAspirants se reuniam em cerimônias sagradas (daily, planning e retrospectiva) onde refinavam suas tarefas.
+E mesmo que os deploys fossem turbulentos e diante dos builds que insistiam em falhar à meia-noite, prosseguiam desenvolvendo suas habilidades para resolver os bugs.
 Cada membro dominava uma habilidade única:
 Um era mestre em POSTar a verdade nas APIs,
 Outro decifrava até o mais confuso dos JSONs corrompidos,
