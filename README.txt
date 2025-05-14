@@ -5,12 +5,12 @@ Foi então que, nas profundezas do repositório secreto da Codebase Central, sur
 Mas nem sempre foi fácil. Cada sprint trazia novos desafios e batalhas contra prazos apertados, escopos mutantes e requisitos ambíguos. Mesmo assim, os QAspirants se reuniam em cerimônias sagradas (daily, planning e retrospectiva) onde refinavam suas tarefas.
 E mesmo que os deploys fossem turbulentos e diante dos builds que insistiam em falhar à meia-noite, prosseguiam desenvolvendo suas habilidades para resolver os bugs.
 Cada membro dominava uma habilidade única:
+
 Um era mestre em POSTar a verdade nas APIs,
 Outro decifrava até o mais confuso dos JSONs corrompidos,
 Tinha quem enfrentava bugs cara a cara, lançando asserts como feitiços,
 E claro, havia quem pacificava conflitos de merge como um verdadeiro diplomata do Git.
-  Com muitos pull requests, eles viajaram por branches paralelas, enfrentando vários conflitos, como loops infinitos e testes quebrando na pipeline.
-
+Com muitos pull requests, eles viajaram por branches paralelas, enfrentando vários conflitos, como loops infinitos e testes quebrando na pipeline.
 Havia quem invocava a verdade com um simples POST, mestre das APIs e seus segredos.
 Outro lia JSONs corrompidos como se fossem profecias antigas, desvendando cada byte perdido.
 Tinha também o caçador de bugs, destemido, lançando asserts com a precisão de um mago em batalha.
