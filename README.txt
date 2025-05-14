@@ -1,6 +1,9 @@
 QAspirants_O_Despertar_da_Main.txt
-Em um futuro não muito distante, o mundo digital estava em colapso. Aplicações quebravam em produção, APIs respondiam com códigos 500 aleatórios, e bugs se multiplicavam como se tivessem vida própria. Era o Caos versão 2.0.
+
+Em um futuro não muito distante, o mundo digital mergulhava em trevas. Sistemas críticos falhavam sem aviso, aplicações entravam em colapso durante deploys de sexta-feira, e APIs, antes confiáveis, respondiam com códigos 500 como se zombassem dos desenvolvedores. Regras de negócio sumiam misteriosamente do código-fonte, e features entregues ontem hoje já não funcionavam. Era como se a própria lógica estivesse corrompida. Bugs se multiplicavam com inteligência maligna, burlando testes automatizados e escapando dos olhos mais atentos. O caos reinava nos ambientes de produção, pipelines estouravam como granadas mal configuradas, e tickets de suporte se acumulavam como se fossem relíquias de uma guerra que jamais terminaria. Era o Caos versão 2.0 — onde cada push era um ato de coragem e cada rollback, uma oração não atendida.
 Foi então que, nas profundezas do repositório secreto da Codebase Central, surgiu uma nova esperança: QAspirants, uma squad formada por jovens estagiários com um único objetivo — restaurar a ordem entre os commits e garantir que nenhum erro escapasse à validação.
+Mas nem sempre foi fácil. Cada sprint trazia novos desafios e batalhas contra prazos apertados, escopos mutantes e requisitos ambíguos. Mesmo assim, os QAspirants se reuniam em cerimônias sagradas (daily, planning e retrospectiva) onde refinavam suas tarefas.
+E mesmo que os deploys fossem turbulentos e diante dos builds que insistiam em falhar à meia-noite, prosseguiam desenvolvendo suas habilidades para resolver os bugs.
 Cada membro dominava uma habilidade única:
 Um era mestre em POSTar a verdade nas APIs,
 Outro decifrava até o mais confuso dos JSONs corrompidos,
