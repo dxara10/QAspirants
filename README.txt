@@ -10,5 +10,12 @@ Outro decifrava até o mais confuso dos JSONs corrompidos,
 Tinha quem enfrentava bugs cara a cara, lançando asserts como feitiços,
 E claro, havia quem pacificava conflitos de merge como um verdadeiro diplomata do Git.
   Com muitos pull requests, eles viajaram por branches paralelas, enfrentando vários conflitos, como loops infinitos e testes quebrando na pipeline.
+
+Havia quem invocava a verdade com um simples POST, mestre das APIs e seus segredos.
+Outro lia JSONs corrompidos como se fossem profecias antigas, desvendando cada byte perdido.
+Tinha também o caçador de bugs, destemido, lançando asserts com a precisão de um mago em batalha.
+E não podemos esquecer do diplomata do Git, que resolvia conflitos de merge com a sabedoria de um embaixador em tempos de guerra digital.
+
+Com muitos pull requests, eles viajaram por branches paralelas, enfrentando vários conflitos, como loops infinitos e testes quebrando na pipeline.
 Até que um certo dia, em uma grande ação conjunta, uniram suas histórias, fizeram o merge na branch main e restauraram o status 200 OK ao mundo!
 Desde então, QAspirants é mais do que uma squad... É uma lenda contada em todo repositório que preza pela qualidade.
